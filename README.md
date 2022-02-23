@@ -5,7 +5,7 @@ A simple application that does nothing useful except to practice with source cod
 
 You will need to have the GNU C++ compiler installed on your system.
 
-* On Debian/Ubuntu, run:
+*  On Debian/Ubuntu, run:
 
 ```
 sudo apt install build-essential
